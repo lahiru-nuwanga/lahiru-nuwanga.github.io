@@ -1,0 +1,13 @@
+# OS / Editor
+.DS_Store
+Thumbs.db
+Desktop.ini
+
+# Logs
+*.log
+
+# Node (if you add build tooling later)
+node_modules/
+dist/
+.vite/
+
